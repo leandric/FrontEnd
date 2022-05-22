@@ -12,7 +12,7 @@
 
 
 
-## Cursos Realizados
+## Cursos
 
 <ul>
 <li>HTML5 e CSS3 parte 1</li>
